@@ -1,0 +1,9 @@
+Comando Gits
+
+git init
+git config --global user.email
+git config --global user.name
+git add *
+git status
+git commit -m (informações entre aspas)
+git push origin main
